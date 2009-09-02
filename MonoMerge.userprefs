@@ -1,0 +1,37 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" ctype="Workspace" />
+  <MonoDevelop.Ide.DebuggingService>
+    <BreakpointStore>
+      <Breakpoint file="/home/dave/Projects/MonoMerge/MonoMerge/MainWindow.cs" line="168" />
+      <Breakpoint file="/home/dave/Projects/MonoMerge/MonoMerge/MainWindow.cs" line="146" />
+      <Breakpoint file="/home/dave/Projects/MonoMerge/MonoMerge/MainWindow.cs" line="150" />
+      <Breakpoint file="/home/dave/Projects/MonoMerge/MonoMerge/MainWindow.cs" line="156" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService>
+  <MonoDevelop.Ide.Workbench ActiveDocument="MonoMerge/MainWindow.cs" ctype="Workbench">
+    <Files>
+      <File FileName="MonoMerge/MainWindow.cs" Line="170" Column="2" />
+      <File FileName="MonoMerge/aviMergeWrapper.cs" Line="107" Column="1" />
+      <File FileName="MonoMerge/ExceptionOutputHandler.cs" Line="3" Column="20" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="MonoMerge" expanded="True">
+            <Node name="MainWindow.cs" selected="True" />
+          </Node>
+          <Node name="Packages" expanded="True">
+            <Option id="ShowVersionControlOverlays" value="True" />
+            <Option id="ShowAllFiles" value="False" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

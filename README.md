@@ -1,5 +1,9 @@
 # MonoMerge
 
+<p align="center">
+  <img src=".github/logo.png" alt="mono-gtk-monomerge logo" width="128" />
+</p>
+
 A Mono GTK# tool for joining AVI video files.
 
 ## What it does
